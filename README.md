@@ -7,13 +7,14 @@ A simulation dataset for vision-based multi-body SLAM.
 
 ***Static Background***
 <center class = "half">
-<img src = "Picture/static.gif" width = "630" height = "280" /> 
+<img src = "Picture/static.gif" width = "750" height = "260" /> 
 </center>
 
 ***Dynamic Environment***
 <center class = "half">
-<img src = "Picture/one_obj.gif" width = "630" height = "280" /> 
+<img src = "Picture/one_obj.gif" width = "750" height = "260" /> 
 </center>
+
 <center class = "half">
-<img src = "Picture/two_objs.gif" width = "630" height = "280" /> 
+<img src = "Picture/two_objs.gif" width = "750" height = "260" /> 
 </center>
