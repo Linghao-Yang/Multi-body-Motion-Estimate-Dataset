@@ -9,6 +9,7 @@ A simulation dataset for vision-based multi-body SLAM.
 <center class = "half">
 <img src = "Picture/static.gif" width = "630" height = "280" /> 
 </center>
+
 ***Dynamic Environment***
 <center class = "half">
 <img src = "Picture/one_obj.gif" width = "630" height = "280" /> 
